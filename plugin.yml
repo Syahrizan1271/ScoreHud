@@ -1,9 +1,7 @@
-name: ScoreHud
-main: Ifera\ScoreHud\ScoreHud
-api: [3.0.0]
-version: 6.0.0
-author: JackMD
-description: Add fully customizable scoreboards to your server.
+name: Zan1271
+rank: Owner
+version: 1.16.200
+Enjoy The Game
 
 virions:
 - ScoreFactory
